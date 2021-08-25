@@ -3,6 +3,7 @@
 ## Setup
 
 Write your token in [`token.json file`](/token.json)
+And make sure that your repo is private
 
 ## How to start hosting
 
