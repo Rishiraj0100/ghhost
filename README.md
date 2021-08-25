@@ -2,7 +2,7 @@
 
 ## Setup
 
-First of all, fork this repo
+First of all, fork this repo and then
 Write your token in [`token.json file`](/token.json)
 And make sure that your repo is private
 
